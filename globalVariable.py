@@ -1,0 +1,3 @@
+pathVirus = []
+virusFullScan = []
+statusHandleFullScan = False

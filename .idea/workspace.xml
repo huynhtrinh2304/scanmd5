@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="344fc1ef-5fba-4e67-ae50-e7d4df0bcfc3" name="Default Changelist" comment="scan md5">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FullScan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LoadingAnimation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demowalk/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demowalk/demowalke2/asd/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demowalk/demowalke3/trinhhuynh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engineCheckFolder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globalVariable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-3.10.6-amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/0 a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Common Element/Non-Hoved/back btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Animation/robotlink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Current/Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/Quck Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/deep scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/driver update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/firewall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/full scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/protection on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/ram boost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/smart scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/vpn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Hoved/web shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/deep scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/driver update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/fire wall on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/full scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/help &amp; support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/protection on0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/quick scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/ram boost.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/smart scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/vpn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Home Frame/Non-Hoved/web sh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Logo/b logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Logo/logo.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Current/Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Hoved/Custom Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Hoved/Deep Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Hoved/Full Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Hoved/Quick Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Hoved/Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Hoved/smart scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Non-Hoved/Custom Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Non-Hoved/Deep Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Non-Hoved/Full Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Non-Hoved/Quick Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Non-Hoved/Scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/Non-Hoved/smart scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/main logo hoved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Scan Frame/main logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/StepToAv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Current/System.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Hoved/System.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Hoved/firewall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Hoved/protection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Hoved/system health.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Hoved/system report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Non-Hoved/System.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Non-Hoved/firewall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Non-Hoved/protection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Non-Hoved/system health.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/Non-Hoved/system report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/main frame logo hoved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/System Frame/main frame logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Title Bar/close hoved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Title Bar/close non-hoved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Title Bar/minimize hoved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Title Bar/minimize non-hoved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Current/Tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/Tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/auto silent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/cache cleaner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/driver update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/file recovery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/file vault.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/game booster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/history clean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/parental mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/pc tuner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/proxy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/ram booster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/vpn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/web blocker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Hoved/web checker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/Tools.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/auto silent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/cache cleaner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/driver update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/file recovery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/file vault.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/game booster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/history clean.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/parental mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/pc tuner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/proxy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/ram booster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/vpn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/web blocker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/Non-Hoved/web checker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/main frame logo hoved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Tools Frame/main frame logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Current/Web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Hoved/Web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Hoved/child safty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Hoved/content filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Hoved/web report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Hoved/web shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Non-Hoved/Web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Non-Hoved/chield safty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Non-Hoved/content filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Non-Hoved/web report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/Non-Hoved/web shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/main frame logo hoved.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/Web Frame/main frame logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/back button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/blue ani/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/blue ani/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/blue ani/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/blue ani/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/blue ani/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/blue ani/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/images_error.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/junk file remover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/progress bar/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/progress bar/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/progress bar/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/progress bar/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/progress bar/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/progress bar/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/quick scan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/ram booster.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/red ani/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/red ani/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/red ani/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/red ani/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/red ani/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/red ani/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sample0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/sample1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/scan l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/Flow Detection/flow_exe.unibit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/HashDataBase/Md5/md5HashOfVirus.unibit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/HashDataBase/Sha256/virusHash.unibit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataBase/HashDataBase/Sha256/virusInfo.unibit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/keylogger.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/realTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2IsDS22jAnq7MyRSs3ymFaa4TKC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.FullScan.executor": "Run",
+    "Python.LoadingAnimation.executor": "Run",
+    "Python.demo.executor": "Run",
+    "Python.engine.executor": "Run",
+    "Python.engineCheckFolder.executor": "Run",
+    "Python.index.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.real-time.executor": "Run",
+    "Python.realTime.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/trinhhuynh/Desktop/DACN4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\trinhhuynh\Desktop\DACN4\res" />
+      <recent name="C:\Users\trinhhuynh\Desktop\DACN4" />
+      <recent name="C:\Users\trinhhuynh\Desktop\DACN4\src\DataBase\HashDataBase\Md5" />
+      <recent name="C:\Users\trinhhuynh\Desktop\DACN4\demowalk" />
+      <recent name="C:\Users\trinhhuynh\Desktop\DACN4\demo\demo1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\trinhhuynh\Desktop\DACN4" />
+      <recent name="C:\Users\trinhhuynh\Desktop\DACN4\src\DataBase\HashDataBase\Md5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="engine" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Bit-Link Antivirus Pro Working" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Deskop\mannu\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/engine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="344fc1ef-5fba-4e67-ae50-e7d4df0bcfc3" name="Default Changelist" comment="" />
+      <created>1670961394408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670961394408</updated>
+      <workItem from="1712773161841" duration="3493000" />
+      <workItem from="1712845895711" duration="11074000" />
+      <workItem from="1712941664479" duration="2948000" />
+      <workItem from="1713191174827" duration="8746000" />
+      <workItem from="1713277755068" duration="598000" />
+      <workItem from="1713368610457" duration="4363000" />
+      <workItem from="1713451962239" duration="8481000" />
+      <workItem from="1713545948159" duration="5544000" />
+      <workItem from="1713620245098" duration="12408000" />
+      <workItem from="1713714436016" duration="8512000" />
+      <workItem from="1713753760111" duration="2700000" />
+      <workItem from="1713787457029" duration="22000" />
+      <workItem from="1713797926077" duration="7318000" />
+      <workItem from="1713880963619" duration="9517000" />
+      <workItem from="1713977776230" duration="7155000" />
+      <workItem from="1714056815527" duration="5453000" />
+      <workItem from="1714402193167" duration="8842000" />
+      <workItem from="1714487201756" duration="5716000" />
+      <workItem from="1714542891267" duration="780000" />
+      <workItem from="1714551520461" duration="4623000" />
+      <workItem from="1714573813806" duration="10389000" />
+      <workItem from="1714749246698" duration="5425000" />
+      <workItem from="1714835381195" duration="8048000" />
+      <workItem from="1714844099941" duration="842000" />
+      <workItem from="1714927568472" duration="4844000" />
+      <workItem from="1715093899748" duration="13419000" />
+      <workItem from="1715149696831" duration="2186000" />
+      <workItem from="1715178941333" duration="13394000" />
+      <workItem from="1715271972385" duration="5703000" />
+      <workItem from="1716563456847" duration="22000" />
+      <workItem from="1716728766134" duration="5912000" />
+      <workItem from="1716825600197" duration="11000" />
+      <workItem from="1717115886383" duration="10000" />
+      <workItem from="1717115905287" duration="2710000" />
+      <workItem from="1717160472780" duration="345000" />
+    </task>
+    <task id="LOCAL-00001" summary="scan md5">
+      <option name="closed" value="true" />
+      <created>1717160696371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717160696371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="scan md5" />
+    <option name="LAST_COMMIT_MESSAGE" value="scan md5" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DACN4$LoadingAnimation.coverage" NAME="LoadingAnimation Coverage Results" MODIFIED="1715276177122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DACN4$test.coverage" NAME="test Coverage Results" MODIFIED="1715277240680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DACN4$real_time.coverage" NAME="real-time Coverage Results" MODIFIED="1713628678836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/DACN4$FullScan.coverage" NAME="FullScan Coverage Results" MODIFIED="1715151112795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DACN4$engine.coverage" NAME="engine Coverage Results" MODIFIED="1715183515517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/DACN4$engineCheckFolder.coverage" NAME="engineCheckFolder Coverage Results" MODIFIED="1714930748995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DACN4$demo.coverage" NAME="demo Coverage Results" MODIFIED="1715150157907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DACN4$index.coverage" NAME="index Coverage Results" MODIFIED="1714839048088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DACN4$main.coverage" NAME="main Coverage Results" MODIFIED="1717117958072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DACN4$realTime.coverage" NAME="realTime Coverage Results" MODIFIED="1713983896475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
